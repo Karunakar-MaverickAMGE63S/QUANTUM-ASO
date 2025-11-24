@@ -1,0 +1,7 @@
+{
+  "name": "Quantum ASO",
+  "description": "The Gemini-powered AI Race Engineer delivering real-time strategy, predictive coaching, and 3D visualization for the Toyota GR Cup.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
